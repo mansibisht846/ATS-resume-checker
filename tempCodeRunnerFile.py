@@ -1,0 +1,1 @@
+ print(f"\n✅ Total characters: {len(result)}")

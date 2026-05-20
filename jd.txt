@@ -1,0 +1,33 @@
+Job Title: Data Analyst
+Company: TechCorp Solutions
+Location: Delhi, India
+
+About the Role:
+We are looking for a Data Analyst to join our growing analytics team. You will be responsible for collecting, processing, and analyzing large datasets to help drive business decisions.
+
+Responsibilities:
+- Analyze large datasets using Python and SQL to extract meaningful insights
+- Build interactive dashboards and reports using Power BI and Tableau
+- Perform data cleaning, data wrangling, and exploratory data analysis (EDA)
+- Collaborate with business teams to understand data requirements
+- Create visualizations using Matplotlib and Seaborn
+- Develop and maintain Excel-based reports for stakeholders
+- Apply statistical analysis and machine learning techniques to business problems
+- Present findings and insights to non-technical stakeholders
+
+Requirements:
+- Proficiency in Python including Pandas, NumPy, Matplotlib, and Seaborn
+- Strong SQL skills for data querying and database management
+- Experience with Power BI and Tableau for dashboard creation
+- Knowledge of data cleaning and exploratory data analysis
+- Familiarity with machine learning concepts and scikit-learn
+- Strong Excel skills including pivot tables and vlookup
+- Good communication and presentation skills
+- Experience with GitHub for version control
+
+Preferred Qualifications:
+- Experience with customer behaviour analysis
+- Knowledge of retail analytics or business analytics
+- Internship experience in data science or analytics
+- Familiarity with NLP and text analytics
+- Understanding of statistics and probability
