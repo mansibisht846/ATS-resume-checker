@@ -18,7 +18,7 @@ def get_keyword_gap(resume_tokens, jd_text):
     # Step 3 — Find missing keywords (in JD but not in resume)
     missing = jd_set - resume_set
 
-    # Step 4 — Remove very short words
+    # Step 4 — Remove very short wordspython test_pipeline.py
     missing = {word for word in missing if len(word) > 2}
 
     # Step 5 — Sort alphabetically
